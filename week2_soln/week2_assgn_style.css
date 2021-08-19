@@ -59,7 +59,7 @@
         position:absolute;
         top:0px;
         right:0px;
-        width: 33%;
+        width: 130px;
         text-align: center;
         border: 1px solid black;
         font-size: 125%;
@@ -76,5 +76,4 @@
       }
       .sushi {
         background-color: palegoldenrod;
-        width:22%;
       }
